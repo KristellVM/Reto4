@@ -7,6 +7,7 @@ import util.Funciones;
 public class Reto4 {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		Scanner sc=new Scanner(System);
 		/*
 		 * Pide por consola un número y una edad Si el número es mayor de 100 y la edad
@@ -24,6 +25,9 @@ else {//Sino no, calcula num pares del numero hasta su edad
 	
 	Funciones.a(edad, num)
 	
+=======
+		
+>>>>>>> branch 'main' of https://github.com/KristellVM/Reto4.git
 
 	}
 
